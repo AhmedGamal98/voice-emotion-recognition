@@ -1,0 +1,13 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+venv/
+.venv/
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+# Dataset (download separately, see README)
+voice data set/
